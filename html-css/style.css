@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    background-color: #f4f0e5;
+    font-family: Tahoma;
+}
+
+/* inicio cabecalho da pagina */
+.secao {
+    width: 700px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.imagem-logotipo {
+    width: 200px;
+}
+
+a {
+    margin: 0 10px;
+    color: #542f0c;
+    border-radius: 10px;
+}
+
+a:hover{
+    background-color: #efdbc7;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+h1 {
+
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #de8e37;
+}
+
+h2 {
+
+    font-weight: normal;
+    color: #de8e37;
+    margin-top: 10px;
+}
+
+.imagem-banner {
+    width: 700px;
+}
+/* fim do cabecalho da pagina */
+
+
+/* inicio da pagina destaque incluindo o footer*/
+
+.secao-destaque {
+    
+    background-color: #de8e37;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+}
+
+.secao-destaque h3 {
+    font-size: 25px;
+}
+
+.secao-destaque p {
+    width: 500px;
+    margin: 0 auto;
+    line-height: 30px;
+    
+}
+
+.secao-destaque img {
+    width: 400px;
+    
+}
+
+span {
+    font-weight: bold;
+}
+
+.secao h3{
+    border-top: 1px solid #de8e37;
+    padding-top: 15px;
+
+    
+}
+
+/* fim da pagina destaque incluindo o footer */
